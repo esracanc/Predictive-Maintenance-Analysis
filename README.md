@@ -108,4 +108,4 @@ Developed by a Statistics graduate specializing in Data Analytics and industrial
 
 ---
 
- **Connect / İletişim:** [LinkedIn Profile](www.linkedin.com/in/esracan-da)
+ **Connect / İletişim:** [LinkedIn Profile](https://www.linkedin.com/in/esracan-da/)
