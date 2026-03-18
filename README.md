@@ -97,8 +97,8 @@ Databricks üzerinde **SparkSQL** kullanılarak:
 - **Tork** (En Yüksek Etki)  
 - **Dönüş Hızı** - **Hava Sıcaklığı** ---
 
-### 📷 Dashboard Preview / Panel Görünümü
-![Predictive Maintenance Dashboard](./images/dashboard.png)
+###  Dashboard Preview / Panel Görünümü
+![Predictive Maintenance Dashboard](dashboard.png)
 
 ---
 
